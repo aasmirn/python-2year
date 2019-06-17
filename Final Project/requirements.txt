@@ -1,0 +1,6 @@
+pymorphy2==0.8
+markovify==0.7.1
+requests==2.22.0
+PySocks==1.7.0
+Flask==1.0.2
+pyTelegramBotAPI==3.6.6
